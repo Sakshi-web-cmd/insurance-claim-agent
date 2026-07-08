@@ -124,7 +124,7 @@ The application displays:
 
 ## 👩‍💻 Author
 
-**Sakshi S. Hiremath**
+**Sakshi Hiremath**
 
 GitHub:
 https://github.com/Sakshi-web-cmd
