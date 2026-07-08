@@ -1,0 +1,31 @@
+Policy Number: POL123456
+
+Policyholder Name: John Smith
+
+Effective Dates: 01-01-2026 to 31-12-2026
+
+Date: 07-07-2026
+
+Time: 10:30 AM
+
+Location: Bangalore
+
+Description: Car collided with another vehicle at a traffic signal.
+
+Claimant: John Smith
+
+Third Parties: Rahul Kumar
+
+Contact Details: 9876543210
+
+Asset Type: Car
+
+Asset ID: KA01AB1234
+
+Estimated Damage: 18000
+
+Claim Type: Vehicle
+
+Attachments: Photos, Police Report
+
+Initial Estimate: 20000

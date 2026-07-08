@@ -1,0 +1,19 @@
+Policy Number: POL445566
+Policyholder Name: Sneha Patil
+Effective Dates: 01-01-2026 to 31-12-2026
+
+Date: 10-07-2026
+Time: 05:00 PM
+Location: Dharwad
+Description: Minor collision while parking.
+
+Claimant: Sneha Patil
+Third Parties: Ramesh
+Contact Details: 9988776655
+
+Asset Type: Car
+Asset ID: KA18AB9999
+
+Claim Type: Vehicle
+Attachments: Photos
+Initial Estimate: 12000

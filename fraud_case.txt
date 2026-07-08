@@ -1,0 +1,20 @@
+Policy Number: POL223344
+Policyholder Name: Ravi Kumar
+Effective Dates: 01-01-2026 to 31-12-2026
+
+Date: 08-07-2026
+Time: 02:15 PM
+Location: Mysore
+Description: The accident appears to be fraud and may be a staged collision.
+
+Claimant: Ravi Kumar
+Third Parties: Unknown
+Contact Details: 9876500000
+
+Asset Type: Car
+Asset ID: KA09CD5678
+Estimated Damage: 40000
+
+Claim Type: Vehicle
+Attachments: Photos
+Initial Estimate: 42000

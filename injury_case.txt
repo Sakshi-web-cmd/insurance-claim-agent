@@ -1,0 +1,20 @@
+Policy Number: POL998877
+Policyholder Name: Priya Sharma
+Effective Dates: 01-01-2026 to 31-12-2026
+
+Date: 09-07-2026
+Time: 08:45 AM
+Location: Hubli
+Description: Car accident resulting in injuries to the driver.
+
+Claimant: Priya Sharma
+Third Parties: Mahesh
+Contact Details: 9123456780
+
+Asset Type: Car
+Asset ID: KA25XY9876
+Estimated Damage: 50000
+
+Claim Type: Injury
+Attachments: Medical Report, Photos
+Initial Estimate: 55000
