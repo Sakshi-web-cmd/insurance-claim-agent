@@ -1,22 +1,22 @@
-# 🚗 Autonomous Insurance Claims Processing Agent
+#  Autonomous Insurance Claims Processing Agent
 
 An AI-powered application that extracts important information from First Notice of Loss (FNOL) documents and recommends the appropriate claim processing route using Google's Gemini API.
 
-## 📌 Features
+##  Features
 
 - Upload FNOL documents (.pdf or .txt)
 - Extract claim details using Gemini AI
 - Display extracted fields in JSON format
 - Automatically recommend claim routing
 - Handles different claim scenarios:
-  - ✅ Fast-track
-  - 🔍 Investigation Flag
-  - 👨‍💼 Specialist Queue
-  - 📋 Manual Review
+  -  Fast-track
+  -  Investigation Flag
+  -  Specialist Queue
+  -  Manual Review
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Streamlit
@@ -27,7 +27,7 @@ An AI-powered application that extracts important information from First Notice 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 insurance_claim_agent/
@@ -47,7 +47,7 @@ insurance_claim_agent/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository
 
@@ -81,7 +81,7 @@ streamlit run app.py
 
 ---
 
-## 🚀 Workflow
+##  Workflow
 
 1. Upload an FNOL document.
 2. Extract text from the document.
@@ -91,7 +91,7 @@ streamlit run app.py
 
 ---
 
-## 📊 Routing Rules
+## Routing Rules
 
 | Condition | Recommended Route |
 |-----------|-------------------|
@@ -103,7 +103,7 @@ streamlit run app.py
 
 ---
 
-## 🧪 Sample Test Files
+##  Sample Test Files
 
 - fast_track.txt
 - fraud_case.txt
@@ -112,7 +112,7 @@ streamlit run app.py
 
 ---
 
-## 📷 Output
+##  Output
 
 The application displays:
 
@@ -122,7 +122,7 @@ The application displays:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Sakshi Hiremath**
 
@@ -131,6 +131,6 @@ https://github.com/Sakshi-web-cmd
 
 ---
 
-## 📄 License
+## License
 
 This project is created for educational and learning purposes.
